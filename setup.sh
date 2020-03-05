@@ -12,3 +12,5 @@ EOD
 else
     echo "Command Line Developer Tools are already installed!"
 fi
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
